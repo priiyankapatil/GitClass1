@@ -5,3 +5,9 @@ def rec(n):
         return n
     else:
         n*(rec(n-1))
+        #suraksha 
+        #include<stdio.h>
+        void main()
+        {
+            printf("hello world!);
+        }
